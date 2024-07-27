@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Agnimn
-- 👀 I’m interested in :Software development,full stack developer, Artificial intelligence,Software Engineer!
+- 👀 I’m interested in :Software development,Full stack development, Artificial intelligence,Software Engineer!
 - 📫 How to reach me : agnimn95@gmail.com
 - 😄 Pronouns: he/him
 
